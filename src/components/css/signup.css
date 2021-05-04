@@ -1,7 +1,9 @@
-:root {
-  --main-color: #719430;
-  --main-width: 350px;
-}
+/*
+Originally I will using root in here to control the variable of the css
+but due to a bug in React, it will not deploy with the root 
+thus, I need to remove it in this case
+
+*/
 
 body {
   background-color: #ecede8;
@@ -11,7 +13,7 @@ body {
   width: max-content;
 
   margin: 5% auto auto auto;
-  border: var(--main-color) solid 2px;
+  border: #719430 solid 2px;
   border-radius: 15px;
 }
 
@@ -21,7 +23,7 @@ body {
 }
 
 .login-picture {
-  width: var(--main-width);
+  width: 350px;
   height: calc(var(--main-size)-15px);
   border-radius: 15px 15px 0px 0px;
 }
@@ -30,8 +32,8 @@ body {
   display: flex;
   flex-direction: column;
   font-family: sans-serif;
-  color: var(--main-color);
-  width: var(--main-width);
+  color: #719430;
+  width: 350px;
   height: max-content;
   border-radius: 15px 15px 15px 15px;
   background-color: white;
@@ -82,6 +84,6 @@ button,
   margin-bottom: 20px;
   padding: 10px 0 10px 0;
   color: white;
-  background-color: var(--main-color);
+  background-color: #719430;
   border-radius: 15px 15px 15px 15px;
 }
