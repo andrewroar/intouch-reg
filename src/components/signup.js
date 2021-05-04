@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React, { useState } from "react";
 import "./css/signup.css";
 import { useHistory } from "react-router-dom";
 import logo from "./static/logo.png";
@@ -26,7 +26,6 @@ function Signup() {
   const [phoneNumber, setphoneNumber] = useState();
   const [emailValue, setEmailValue] = useState();
   const [dobValue, setDobValue] = useState();
-  const [readyToRedirect, setReadyToRedirect] = useState(false);
 
   const changeNameValue = (element) => {
     setNameValue(element.target.value);

@@ -29,5 +29,5 @@ class NewRegisteration {
       });
   }
 }
-
-module.exports = NewRegisteration;
+export default NewRegisteration;
+//module.exports = NewRegisteration;
