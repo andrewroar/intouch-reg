@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/intouch-reg/static/css/main.fb2ffba9.chunk.css",
+    "main.js": "/intouch-reg/static/js/main.5f7aa9fd.chunk.js",
+    "main.js.map": "/intouch-reg/static/js/main.5f7aa9fd.chunk.js.map",
+    "runtime-main.js": "/intouch-reg/static/js/runtime-main.a9d3b2d1.js",
+    "runtime-main.js.map": "/intouch-reg/static/js/runtime-main.a9d3b2d1.js.map",
+    "static/css/2.086ec6e4.chunk.css": "/intouch-reg/static/css/2.086ec6e4.chunk.css",
+    "static/js/2.82223b7e.chunk.js": "/intouch-reg/static/js/2.82223b7e.chunk.js",
+    "static/js/2.82223b7e.chunk.js.map": "/intouch-reg/static/js/2.82223b7e.chunk.js.map",
+    "index.html": "/intouch-reg/index.html",
+    "static/css/2.086ec6e4.chunk.css.map": "/intouch-reg/static/css/2.086ec6e4.chunk.css.map",
+    "static/css/main.fb2ffba9.chunk.css.map": "/intouch-reg/static/css/main.fb2ffba9.chunk.css.map",
+    "static/js/2.82223b7e.chunk.js.LICENSE.txt": "/intouch-reg/static/js/2.82223b7e.chunk.js.LICENSE.txt",
+    "static/media/logo.775abb8d.png": "/intouch-reg/static/media/logo.775abb8d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d3b2d1.js",
+    "static/css/2.086ec6e4.chunk.css",
+    "static/js/2.82223b7e.chunk.js",
+    "static/css/main.fb2ffba9.chunk.css",
+    "static/js/main.5f7aa9fd.chunk.js"
+  ]
+}
