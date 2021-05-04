@@ -17,7 +17,6 @@ class NewRegisteration {
       body: JSON.stringify(this),
     })
       .then((response) => {
-        console.log(response);
         //history.replace(redirect);
 
         return response.json();
